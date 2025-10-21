@@ -17,10 +17,7 @@
 
 您无需下载单独的规则文件，可以直接通过 URL 导入本仓库的**主配置文件**。
 
-1.  打开 Surge 5 应用程序。
-2.  进入 “配置” (Profiles) 页面。
-3.  点击 “从 URL 下载配置” (Download Profile from URL)。
-4.  输入以下链接：
+.  输入以下链接：
 
 https://raw.githubusercontent.com/kkchan912/Surge-Firewall/refs/heads/main/Firewall.conf
 
