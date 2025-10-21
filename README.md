@@ -1,18 +1,3 @@
-## 进度条
-- [ ] 99% 的功能
-- [ ] 剩下的 1% (这部分最难 😭)
-- [x] 添加了一个酷炫的 README
-
----
-
-### 🚨 警告
-本项目处于 **“理论上可行，但现实骨感”** 阶段。请自行承担使用风险。
-(别问我什么时候能完成，我也不知道 🤷‍♂️)
-
-
-
-
-
 
 This repository contains the configuration file for the [Surge](https://nssurge.com) app to block domains from the Steven Black’s unified [hosts](https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts).
 
