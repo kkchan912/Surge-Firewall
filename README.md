@@ -38,7 +38,7 @@ https://raw.githubusercontent.com/kkchan912/Surge-Firewall/refs/heads/main/Firew
 * **国内规则**：包含 `CN-Ruleset` 文件夹，用于精细化处理国内流量。
 * **自动更新**：仓库内的规则集已设置 GitHub Actions 自动同步更新。
 
-'⚠️ 注意事项'
+' ⚠️ 注意事项 ' 'Surge'
 
 * 本配置为个人自用，请根据您自己的网络环境和需求进行调整。
 * 导入配置后，**务必检查策略组**，并添加您自己的代理服务器节点，否则可能无法上网。
