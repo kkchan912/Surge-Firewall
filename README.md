@@ -19,6 +19,7 @@
 输入以下链接：
 
 https://raw.githubusercontent.com/kkchan912/Surge-Firewall/refs/heads/main/Firewall.conf
+
 导入后，您可能需要根据自己的节点（代理服务器）信息，在策略组 (Proxy Group) 中进行设置。
 
 `⚠️注意事项`
