@@ -8,8 +8,6 @@
 # 💡 项目特色
 ## Surge-Firewall 个人防火墙配置
 
-[![Auto Update](https://github.com/kkchan912/Surge-Firewall/actions/workflows/auto-update.yml/badge.svg)](https://github.com/kkchan912/Surge-Firewall/actions/workflows/auto-update.yml)
-
 这是一个个人使用的 [Surge 5](https://nssurge.com/) 防火墙与分流配置文件，旨在提供一个开箱即用的网络管理方案。
 
 本项目包含一个主配置文件 (`Surge.conf`) 以及所有依赖的规则列表 (`.list`) 和规则集 (`CN-Ruleset`)。
