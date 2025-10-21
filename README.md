@@ -6,7 +6,7 @@
 > *Talk is cheap. Show me the code.* — Linus Torvalds  
 
 # 💡 项目特色
-# Surge-Firewall 个人防火墙配置
+## Surge-Firewall 个人防火墙配置
 
 [![Auto Update](https://github.com/kkchan912/Surge-Firewall/actions/workflows/auto-update.yml/badge.svg)](https://github.com/kkchan912/Surge-Firewall/actions/workflows/auto-update.yml)
 
