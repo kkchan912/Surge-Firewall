@@ -26,18 +26,6 @@ https://raw.githubusercontent.com/kkchan912/Surge-Firewall/refs/heads/main/Firew
 
 5.  导入后，您可能需要根据自己的节点（代理服务器）信息，在策略组 (Proxy Group) 中进行设置。
 
-## 
-配置特点
-
-* **防火墙思维**：内置 `reject.list` 规则，用于屏蔽广告、跟踪器和恶意域名。
-* **局域网管理**：通过 `lan.list` 管理本地网络流量。
-* **服务分流**：
-* `apple.list`: 优化 Apple 服务。
-* `stream.list`: 国际流媒体服务。
-* `youtube.list`: YouTube 专用规则。
-* **国内规则**：包含 `CN-Ruleset` 文件夹，用于精细化处理国内流量。
-* **自动更新**：仓库内的规则集已设置 GitHub Actions 自动同步更新。
-
 `⚠️注意事项`
 * 本配置为个人自用，请根据您自己的网络环境和需求进行调整
 * 导入配置后，**务必检查策略组**，并添加您自己的代理服务器节点，否则可能无法上网
