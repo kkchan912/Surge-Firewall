@@ -3,6 +3,7 @@
 ![维护者](https://img.shields.io/badge/Maintained_By-Coffee_and_Tears-blue)
 </p>
 
+`linux` `QuantumultX` `Surge5`
 > *Talk is cheap. Show me the code.* — Linus Torvalds  
 
 # 💡 项目特色
