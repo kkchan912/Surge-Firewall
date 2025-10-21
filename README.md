@@ -16,12 +16,10 @@
 ## 🚀 如何使用 (一键导入)
 
 您无需下载单独的规则文件，可以直接通过 URL 导入本仓库的**主配置文件**。
-
-.  输入以下链接：
+输入以下链接：
 
 https://raw.githubusercontent.com/kkchan912/Surge-Firewall/refs/heads/main/Firewall.conf
-
-5.  导入后，您可能需要根据自己的节点（代理服务器）信息，在策略组 (Proxy Group) 中进行设置。
+导入后，您可能需要根据自己的节点（代理服务器）信息，在策略组 (Proxy Group) 中进行设置。
 
 `⚠️注意事项`
 * 本配置为个人自用，请根据您自己的网络环境和需求进行调整
